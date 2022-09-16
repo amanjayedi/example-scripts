@@ -1,4 +1,4 @@
-# Example Scripts
+# Example Scripts_Postman API
 
 This repo will be used to keep track of example scripts I write. Many of these will be storing code from blogs or YouTube videos that I post. 
 
